@@ -50,5 +50,3 @@ Update the server IP address in `client.py` before running the client.
 
 ## Author
 Simranjot Kaur
-BCA Cybersecurity & Forensics
-CT University
